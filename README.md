@@ -1,11 +1,11 @@
 # Chat-System
-C# WPF implementation of a Chat Server using Message Queue
-Coders: Bobby Vu & Jason Gemanaru
+C# WPF implementation of a Chat Server using Message Queue<br />
+Coders: Bobby Vu & Jason Gemanaru<br />
 
 
 ## CONSTRAINT:
-This system works only for computers in the same network
-This only works on Windows with Message Queue installed
+* This system works only for computers in the same network
+* This only works on Windows with Message Queue installed
 
 
 ## STEPS TO INSTALL MESSAGE QUEUE:
