@@ -1,0 +1,5 @@
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\SupportClass\SupportClass\bin\Debug\SupportClass.dll
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\SupportClass\SupportClass\bin\Debug\SupportClass.pdb
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\SupportClass\SupportClass\obj\Debug\SupportClass.csprojResolveAssemblyReference.cache
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\SupportClass\SupportClass\obj\Debug\SupportClass.dll
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\SupportClass\SupportClass\obj\Debug\SupportClass.pdb

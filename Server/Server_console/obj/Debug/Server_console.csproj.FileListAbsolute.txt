@@ -1,0 +1,11 @@
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\Server_console\Server_console\bin\Debug\Server_console.exe.config
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\Server_console\Server_console\bin\Debug\Server_console.exe
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\Server_console\Server_console\bin\Debug\Server_console.pdb
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\Server_console\Server_console\bin\Debug\SupportClass.dll
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\Server_console\Server_console\bin\Debug\SupportClass.pdb
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\Server_console\Server_console\obj\Debug\Server_console.csprojResolveAssemblyReference.cache
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\Server_console\Server_console\obj\Debug\Server_console.exe
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\Server_console\Server_console\obj\Debug\Server_console.pdb
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\Server\Server_console\bin\Debug\Server_console.exe.config
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\Server\Server_console\obj\Debug\Server_console.exe
+C:\Users\bobby\Downloads\WDD_A04_bobbyJason\Server\Server_console\obj\Debug\Server_console.pdb

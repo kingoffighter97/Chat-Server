@@ -1,0 +1,26 @@
+﻿<Window x:Class="MsgClient.SendMessage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MsgClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="600">
+    <Grid>
+        <TextBox x:Name="txtbMsg" HorizontalAlignment="Left" Height="71" TextWrapping="Wrap" VerticalAlignment="Top" Width="408" TextChanged="txtbMsg_TextChanged" Margin="21,290,0,0"/>
+        <Button x:Name="btnSend" Content="Send" HorizontalAlignment="Left" Margin="443,290,0,0" VerticalAlignment="Top" Width="129" Height="71" IsEnabled="False" Click="btnSend_Click"/>
+        <Menu x:Name="menuTop" Height="20" Width="Auto" VerticalAlignment="Top">
+            <MenuItem x:Name="menuiServer" Header="_Server">
+                <MenuItem x:Name="menuiServerConnect" Header="_Connect..." Click="menuiServerConnect_Click"/>
+                <MenuItem x:Name="menuiServerDisconnect" Header="_Disconnect"/>
+            </MenuItem>
+
+            <MenuItem x:Name="menuiChatRoom" Header="_Chat Room">
+                <MenuItem x:Name="menuiChatRoomCreate" Header="_Create..." Click="menuiChatRoomCreate_Click"/>
+                <MenuItem x:Name="menuiChatRoomJoin" Header="_Join..." Click="menuiChatRoomJoin_Click"/>
+                <MenuItem x:Name="menuiChatRoomDisconnect" Header="_Disconnect"/>
+            </MenuItem>
+        </Menu>
+
+    </Grid>
+</Window>

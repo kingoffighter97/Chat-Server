@@ -1,0 +1,16 @@
+﻿<!--
+    *File       :   App.xaml
+    *Assignment :   Win Prog 4/5 
+    *Coder      :   Jason Gemanaru
+    *Date       :   Nov 20, 2016
+    *Description:   Contains main App xaml, which starts the program. 
+-->
+<Application x:Class="MsgClient.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MsgClient"
+             StartupUri="ServerConnect.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
